@@ -1,4 +1,4 @@
-## Hi There, I'm Putu Andi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+### Hi!, I'm Putu Andi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 ### 👨🏻‍💻&nbsp; About Me
 - 🔭 I’m currently studying Informatics at the Udayana University.
 - 🌱 I’m interested in software development.
