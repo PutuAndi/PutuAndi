@@ -19,6 +19,6 @@
 ### 🤝🏻&nbsp;Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/andiwiratamaputra"><img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a> &nbsp
-<a href="mailto:putuandi2003@gmail.com"><img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a> &nbsp
+<a href="mailto:andiwp2003@gmail.com"><img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a> &nbsp
 <a href="https://instagram.com/putuandi_"><img width="20" height="20"src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a> &nbsp
 </p>
