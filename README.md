@@ -5,6 +5,7 @@
   
 ### 🛠&nbsp;Languange and Tools
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Python" title="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" /></a>
 <br>
 <br>
 
